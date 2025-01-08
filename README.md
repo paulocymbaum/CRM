@@ -1,4 +1,6 @@
-# CRM: Financial and Product Analysis App - https://bettercallpaulocrm.streamlit.app/
+# CRM: Financial and Product Analysis App 
+
+[StreamLit App]([https://www.linkedin.com/in/paulosasakicymbaum/recent-activity/articles/](https://bettercallpaulocrm.streamlit.app/aaa))
 
 <p>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
