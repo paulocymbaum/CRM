@@ -1,4 +1,4 @@
-# CRM: Financial and Product Analysis App
+# CRM: Financial and Product Analysis App - https://bettercallpaulocrm.streamlit.app/
 
 This project is a **Streamlit-based interactive web application** designed to analyze financial and product data. The app provides tools for data visualization, exploratory analysis, and insights generation. It is an excellent example of using Python and its ecosystem for data-driven decision-making.
 
