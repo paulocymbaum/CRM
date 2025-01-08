@@ -1,0 +1,5 @@
+venv/
+data/leads.json
+data/uploaded_data.csv
+__pycache__/
+*.pyc
