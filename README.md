@@ -1,6 +1,6 @@
 # CRM: Financial and Product Analysis App 
 
-[StreamLit App](https://bettercallpaulocrm.streamlit.app)
+[StreamLit App](https://bettercallpaulo-crm.streamlit.app/)
 
 <p>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
