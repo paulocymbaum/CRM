@@ -99,13 +99,12 @@ This is one of the projects from my portfolio to showcase my skills as a fullsta
    ./start_app.sh
    ```
 
-4. Open the app in your browser at `http://localhost:8501`.
 
 ---
 ## **Project Structure**
 
 ```
-venv/
+CRM/
 ├── main.py
 ├── requirements.txt
 ├── screens/
@@ -117,6 +116,7 @@ venv/
 ├── utils/
 │   ├── data_processing.py
 │   ├── state_manager.py
+├── data/
 ├── data/
 
 ```

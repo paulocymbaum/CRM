@@ -1,5 +1,15 @@
-venv/
-data/leads.json
-data/uploaded_data.csv
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data files
+data/*.csv
+data/*.json
+*.csv
+*.json
+
+# System files
+.DS_Store
