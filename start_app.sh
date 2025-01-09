@@ -1,5 +1,5 @@
 #!/bin/bash
-
+python3 -m venv venv
 # Activate the virtual environment
 source venv/bin/activate
 
@@ -10,3 +10,4 @@ pip install -r requirements.txt
 streamlit run main.py
 
 deactivate
+rm -rf venv
