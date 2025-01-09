@@ -5,11 +5,6 @@ __pycache__/
 venv/
 .env
 
-# Data files
-data/*.csv
-data/*.json
-*.csv
-*.json
 
 # System files
 .DS_Store
